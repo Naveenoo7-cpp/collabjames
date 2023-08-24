@@ -10,6 +10,7 @@ void fun1(int a, int b) {
 void fun2(int c) {
 
     cout << c << endl;
+
 }
 
 int main() {
