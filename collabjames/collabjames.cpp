@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 void fun1(int a, int b);
 void fun2(int c);
 void fun1(int a, int b) {
